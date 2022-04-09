@@ -1,4 +1,4 @@
-Moble testing Reminder_Android_app HW_2
+Moble testing Reminder_Android_app 
 
 1) Собрать приложение на эмуляторе
 2) Собрать приложение на реальном телефоне
