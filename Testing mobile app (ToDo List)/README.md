@@ -4,6 +4,8 @@ __app ToDo List__
 
 1) Собрать приложение на эмуляторе
 
+<img src="https://ltdfoto.ru/images/2022/04/13/photo5379685111244634760.jpg" width="160">
+
 2) Собрать приложение на реальном телефоне
 
 <img src="https://ltdfoto.ru/images/2022/04/12/photo5366151536150952788.jpg" width="160">
