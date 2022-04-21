@@ -4,13 +4,13 @@ __app ToDo List__
 
 1) Собрать приложение на эмуляторе
 
-<img src="https://ltdfoto.ru/images/2022/04/13/photo5379685111244634760.jpg" width="160">
+<img src="https://raw.githubusercontent.com/AndreiHeranok/Mobile_testing/main/Testing%20mobile%20app%20(ToDo%20List)/scrn%20(4).jpg" width="160">
 
 2) Собрать приложение на реальном телефоне
 
-<img src="https://ltdfoto.ru/images/2022/04/12/photo5366151536150952788.jpg" width="160">
-<img src="https://ltdfoto.ru/images/2022/04/12/photo5366151536150952789.jpg" width="160">
-<img src="https://ltdfoto.ru/images/2022/04/12/photo5366151536150952790.jpg" width="160">
+<img src="https://raw.githubusercontent.com/AndreiHeranok/Mobile_testing/main/Testing%20mobile%20app%20(ToDo%20List)/scrn%20(1).jpg" width="160"> 
+<img src="https://raw.githubusercontent.com/AndreiHeranok/Mobile_testing/main/Testing%20mobile%20app%20(ToDo%20List)/scrn%20(2).jpg" width="160"> 
+<img src="https://raw.githubusercontent.com/AndreiHeranok/Mobile_testing/main/Testing%20mobile%20app%20(ToDo%20List)/scrn%20(3).jpg" width="160">
 
 3) Собрать .apk файл и установить на реальном телефоне.
 4) Сделать Adhoc тестирование приложения ToDo List
